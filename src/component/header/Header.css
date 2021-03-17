@@ -1,0 +1,19 @@
+.emaJohnimg img{
+width:300px;
+height:auto;
+
+}
+.emaJohnimg{
+    text-align:center;
+}
+.nav-ber{
+
+   background-color: blanchedalmond;
+   padding:10px
+}
+.nav-ber a{
+    text-decoration:none;
+    font-size: 20px;
+    margin-right: 10px;
+    text-transform:uppercase;
+}

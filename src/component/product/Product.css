@@ -1,0 +1,8 @@
+.productditalse{
+    display:flex;
+    border-bottom: 1px solid red
+}
+.btn{
+    padding:10px;
+    margin-bottom: 10px;
+}
